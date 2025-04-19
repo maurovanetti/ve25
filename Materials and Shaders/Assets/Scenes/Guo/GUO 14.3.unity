@@ -997,6 +997,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: INGOT (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 4587554010457241377, guid: c4367c607982c934cbc509bc3eb5ff96, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 8b87ff1282a1f5142be3e539154d62c9, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1066,6 +1070,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: INGOT (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 4587554010457241377, guid: c4367c607982c934cbc509bc3eb5ff96, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 9191466aefca5b043b8e33f64ffabbfe, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6167,6 +6175,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: INGOT
       objectReference: {fileID: 0}
+    - target: {fileID: 4587554010457241377, guid: c4367c607982c934cbc509bc3eb5ff96, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 30f4fb8ea9089de4a9726e312d55d68b, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

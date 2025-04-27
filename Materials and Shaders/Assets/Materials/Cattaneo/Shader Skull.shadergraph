@@ -84,20 +84,6 @@
             },
             "m_InputSlot": {
                 "m_Node": {
-                    "m_Id": "a2d44871aca5427ebdb455e70a703378"
-                },
-                "m_SlotId": 2
-            }
-        },
-        {
-            "m_OutputSlot": {
-                "m_Node": {
-                    "m_Id": "42e8a7e322cd49459cb52647a26f49c7"
-                },
-                "m_SlotId": 0
-            },
-            "m_InputSlot": {
-                "m_Node": {
                     "m_Id": "a80a7c7d7132439ab1676c5e331de9d3"
                 },
                 "m_SlotId": 1
@@ -171,20 +157,6 @@
                     "m_Id": "a2d44871aca5427ebdb455e70a703378"
                 },
                 "m_SlotId": 0
-            }
-        },
-        {
-            "m_OutputSlot": {
-                "m_Node": {
-                    "m_Id": "a80a7c7d7132439ab1676c5e331de9d3"
-                },
-                "m_SlotId": 2
-            },
-            "m_InputSlot": {
-                "m_Node": {
-                    "m_Id": "a2d44871aca5427ebdb455e70a703378"
-                },
-                "m_SlotId": 1
             }
         }
     ],
@@ -408,8 +380,8 @@
     "m_ShaderOutputName": "InMinMax",
     "m_StageCapability": 3,
     "m_Value": {
-        "x": -1.0,
-        "y": 1.0
+        "x": -0.3700000047683716,
+        "y": 0.9700000286102295
     },
     "m_DefaultValue": {
         "x": 0.0,
@@ -1071,10 +1043,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -388.99993896484377,
+            "x": -389.0,
             "y": 441.0,
-            "width": 207.99996948242188,
-            "height": 325.99993896484377
+            "width": 208.0,
+            "height": 326.0
         }
     },
     "m_Slots": [
@@ -1113,10 +1085,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -975.0,
-            "y": 396.9999694824219,
-            "width": 208.00006103515626,
-            "height": 302.0000915527344
+            "x": -790.9999389648438,
+            "y": 253.00001525878907,
+            "width": 207.99993896484376,
+            "height": 302.0
         }
     },
     "m_Slots": [
@@ -1214,7 +1186,7 @@
     "m_StageCapability": 3,
     "m_Value": {
         "x": 0.0,
-        "y": 1.0
+        "y": 0.2199999988079071
     },
     "m_DefaultValue": {
         "x": 0.0,

@@ -241,7 +241,7 @@
     "m_StageCapability": 3,
     "m_Value": {
         "x": -1.0,
-        "y": 1.0
+        "y": 2.1700000762939455
     },
     "m_DefaultValue": {
         "x": 0.0,
@@ -1029,7 +1029,7 @@
     "m_StageCapability": 3,
     "m_Value": {
         "x": 0.0,
-        "y": 1.0
+        "y": 1.309999942779541
     },
     "m_DefaultValue": {
         "x": 0.0,

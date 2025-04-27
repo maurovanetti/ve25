@@ -1,0 +1,313 @@
+Using pre-set license
+Built from '2023.2/staging' branch; Version is '2023.2.20f1 (0e25a174756c) revision 927137'; Using compiler version '193431935'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit CoreCountrySpecific' Language: 'zh' Physical Memory: 16290 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+D:\unityå­˜å‚¨ä½ç½®\2023.2.20f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker3
+-projectPath
+E:/naba/unity/dqy2
+-logFile
+Logs/AssetImportWorker3.log
+-srvPort
+54388
+-job-worker-count
+7
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+Successfully changed project path to: E:/naba/unity/dqy2
+E:/naba/unity/dqy2
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [23744] Host "[IP] 172.20.10.12 [Port] 0 [Flags] 2 [Guid] 4216979160 [EditorId] 4216979160 [Version] 1048832 [Id] WindowsEditor(7,Ð¡¶ÎµÄÕü¾ÈÕß) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [23744] Host "[IP] 172.20.10.12 [Port] 0 [Flags] 2 [Guid] 4216979160 [EditorId] 4216979160 [Version] 1048832 [Id] WindowsEditor(7,Ð¡¶ÎµÄÕü¾ÈÕß) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 7
+[Physics::Module] Initialized MultithreadedJobDispatcher with 7 workers.
+Library Redirect Path: Library/
+Refreshing native plugins compatible for Editor in 1.40 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2023.2.20f1 (0e25a174756c)
+[Subsystems] Discovering subsystems at path D:/unityå­˜å‚¨ä½ç½®/2023.2.20f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/naba/unity/dqy2/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f15)
+    Vendor:   NVIDIA
+    VRAM:     5969 MB
+    Driver:   31.0.15.4584
+Initialize mono
+Mono path[0] = 'D:/unityå­˜å‚¨ä½ç½®/2023.2.20f1/Editor/Data/Managed'
+Mono path[1] = 'D:/unityå­˜å‚¨ä½ç½®/2023.2.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/unityå­˜å‚¨ä½ç½®/2023.2.20f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56456
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/unityå­˜å‚¨ä½ç½®/2023.2.20f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007909 seconds.
+- Loaded All Assemblies, in  0.532 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.296 seconds
+Domain Reload Profiling: 817ms
+	BeginReloadAssembly (213ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (44ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (75ms)
+	LoadAllAssembliesAndSetupDomain (177ms)
+		LoadAssemblies (200ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (173ms)
+			TypeCache.Refresh (172ms)
+				TypeCache.ScanAssembly (156ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (296ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (247ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (11ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (5ms)
+			ProcessInitializeOnLoadAttributes (178ms)
+			ProcessInitializeOnLoadMethodAttributes (48ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\naba\unity\dqy2\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image E:\naba\unity\dqy2\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  1.026 seconds
+Refreshing native plugins compatible for Editor in 0.98 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.587 seconds
+Domain Reload Profiling: 1602ms
+	BeginReloadAssembly (496ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (25ms)
+	RebuildCommonClasses (40ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (54ms)
+	LoadAllAssembliesAndSetupDomain (413ms)
+		LoadAssemblies (396ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (183ms)
+			TypeCache.Refresh (159ms)
+				TypeCache.ScanAssembly (144ms)
+			BuildScriptInfoCaches (17ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (587ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (403ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (54ms)
+			ProcessInitializeOnLoadAttributes (300ms)
+			ProcessInitializeOnLoadMethodAttributes (20ms)
+			AfterProcessingInitializeOnLoad (22ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 1.21 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3174 unused Assets / (1.0 MB). Loaded Objects now: 3751.
+Memory consumption went from 102.4 MB to 101.5 MB.
+Total: 7.963500 ms (FindLiveObjects: 0.511200 ms CreateObjectMapping: 0.685100 ms MarkObjects: 5.398100 ms  DeleteObjects: 1.368000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 27927.915612 seconds.
+  path: Assets/New Folder/ThreeBox/Match3D Object Pack - Fruits and Vegetables/Resources/Materials/Add/StorageTray_mtl.mat
+  artifactKey: Guid(edc4877a5fbb7ab45864d50d339d9dd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder/ThreeBox/Match3D Object Pack - Fruits and Vegetables/Resources/Materials/Add/StorageTray_mtl.mat using Guid(edc4877a5fbb7ab45864d50d339d9dd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fe04ce622f92135d51474b7bc8916dc5') in 0.4011391 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.681243 seconds.
+  path: Assets/Material/New Material.mat
+  artifactKey: Guid(11e25f3626971824abeeb42331a90230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/New Material.mat using Guid(11e25f3626971824abeeb42331a90230) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '38dfb5cb6f4d655b77666e16c61e00de') in 0.0153225 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Material/New Material 1.mat
+  artifactKey: Guid(b9773591fd703e04a8c8cf7919308dd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/New Material 1.mat using Guid(b9773591fd703e04a8c8cf7919308dd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a2bcabdaa88a82ff7d3aae61e4c1ad28') in 0.0157068 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 426.418883 seconds.
+  path: Assets/New Folder/ThreeBox/Match3D Object Pack - Fruits and Vegetables/Resources/Textures/Fruits/Fruits_Base_Color.png
+  artifactKey: Guid(08291c9d5dc77044fb1f4d78b43f7a04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder/ThreeBox/Match3D Object Pack - Fruits and Vegetables/Resources/Textures/Fruits/Fruits_Base_Color.png using Guid(08291c9d5dc77044fb1f4d78b43f7a04) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a33b2a5a5261673d61fe700d49dd46f9') in 0.0412968 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/New Folder/ThreeBox/Match3D Object Pack - Fruits and Vegetables/Resources/Textures/Fruits/Fruits_Roughness.png
+  artifactKey: Guid(75562f264315b6548bfc1b7d99b5b02d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder/ThreeBox/Match3D Object Pack - Fruits and Vegetables/Resources/Textures/Fruits/Fruits_Roughness.png using Guid(75562f264315b6548bfc1b7d99b5b02d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd10abf0727b8884bcec63e9252bf9123') in 0.0156608 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.928967 seconds.
+  path: Assets/New Folder/ThreeBox/Match3D Object Pack - Fruits and Vegetables/Resources/Models/Fruits/Banana.fbx
+  artifactKey: Guid(1922faa967875d5408fcd6048351a339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder/ThreeBox/Match3D Object Pack - Fruits and Vegetables/Resources/Models/Fruits/Banana.fbx using Guid(1922faa967875d5408fcd6048351a339) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b9c0641319782c39ccdb639528d657b3') in 0.0652161 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/New Folder/ThreeBox/Match3D Object Pack - Fruits and Vegetables/Resources/Models/Fruits/Watermelon.fbx
+  artifactKey: Guid(c24bb3da931dfe84f88816cde5d356ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder/ThreeBox/Match3D Object Pack - Fruits and Vegetables/Resources/Models/Fruits/Watermelon.fbx using Guid(c24bb3da931dfe84f88816cde5d356ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5385d0ecf957f523e26319b40932b7fa') in 0.0250986 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/New Folder/ThreeBox/Match3D Object Pack - Fruits and Vegetables/Resources/Models/Fruits/Strawberry.fbx
+  artifactKey: Guid(184933852d2eb42438b8c17a3b1aa4cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder/ThreeBox/Match3D Object Pack - Fruits and Vegetables/Resources/Models/Fruits/Strawberry.fbx using Guid(184933852d2eb42438b8c17a3b1aa4cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '18fce4f0e0d4c3e1d62e5f54a6f7ceee') in 0.0263005 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 210.532923 seconds.
+  path: Assets/New Folder/ThreeBox/Match3D Object Pack - Fruits and Vegetables/Resources/Textures/Add/Storage Tray/Storage_Tray_AO.png
+  artifactKey: Guid(e280f9348b3739b4f8d4da41d01a6de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder/ThreeBox/Match3D Object Pack - Fruits and Vegetables/Resources/Textures/Add/Storage Tray/Storage_Tray_AO.png using Guid(e280f9348b3739b4f8d4da41d01a6de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd5cd4af74f864cdeb86855e26098a9c6') in 0.0222362 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.476814 seconds.
+  path: Assets/New Folder/ThreeBox/Match3D Object Pack - Fruits and Vegetables/Resources/Models/Vegetables/Carrot.fbx
+  artifactKey: Guid(42553c149189b6e4da2765ce5484d9be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder/ThreeBox/Match3D Object Pack - Fruits and Vegetables/Resources/Models/Vegetables/Carrot.fbx using Guid(42553c149189b6e4da2765ce5484d9be) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bcca67ee0c295bcdc94adfc9da4e91ec') in 0.0345473 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/New Folder/ThreeBox/Match3D Object Pack - Fruits and Vegetables/Resources/Models/Vegetables/Tomato.fbx
+  artifactKey: Guid(f58e122f95f9fda4c80da1e95a2f7883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder/ThreeBox/Match3D Object Pack - Fruits and Vegetables/Resources/Models/Vegetables/Tomato.fbx using Guid(f58e122f95f9fda4c80da1e95a2f7883) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0abbbbe068ae8e9707c4a70951149bb9') in 0.0267221 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.808712 seconds.
+  path: Assets/New Folder/ThreeBox/Match3D Object Pack - Fruits and Vegetables/Resources/Models/Fruits/Orange.fbx
+  artifactKey: Guid(cc4245038f440aa409362642bcb166d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder/ThreeBox/Match3D Object Pack - Fruits and Vegetables/Resources/Models/Fruits/Orange.fbx using Guid(cc4245038f440aa409362642bcb166d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'be54a4ba91aa809547083eba26a79328') in 0.0234328 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/New Folder/ThreeBox/Match3D Object Pack - Fruits and Vegetables/Resources/Models/Fruits/Strawberry.fbx
+  artifactKey: Guid(184933852d2eb42438b8c17a3b1aa4cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder/ThreeBox/Match3D Object Pack - Fruits and Vegetables/Resources/Models/Fruits/Strawberry.fbx using Guid(184933852d2eb42438b8c17a3b1aa4cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9a3c72a791efe931e408a406468ef295') in 0.0240474 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 78.600368 seconds.
+  path: Assets/New Folder/ThreeBox/Match3D Object Pack - Fruits and Vegetables/Resources/Textures/Vegetables/Vegetables_Base_Color.png
+  artifactKey: Guid(49bce26688ff16743b36346e4552744e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder/ThreeBox/Match3D Object Pack - Fruits and Vegetables/Resources/Textures/Vegetables/Vegetables_Base_Color.png using Guid(49bce26688ff16743b36346e4552744e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1860786496f5ece11d8f7f0ce89ae088') in 0.0162012 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/New Folder/ThreeBox/Match3D Object Pack - Fruits and Vegetables/Resources/Textures/Vegetables/Vegetables_Roughness.png
+  artifactKey: Guid(05e28cf01674b604cb1b9b6302d6cbeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder/ThreeBox/Match3D Object Pack - Fruits and Vegetables/Resources/Textures/Vegetables/Vegetables_Roughness.png using Guid(05e28cf01674b604cb1b9b6302d6cbeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ab2f7364b256527afe354e617a864a99') in 0.0159159 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.733617 seconds.
+  path: Assets/New Folder/ThreeBox/Match3D Object Pack - Fruits and Vegetables/Resources/Models/Vegetables/Carrot.fbx
+  artifactKey: Guid(42553c149189b6e4da2765ce5484d9be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder/ThreeBox/Match3D Object Pack - Fruits and Vegetables/Resources/Models/Vegetables/Carrot.fbx using Guid(42553c149189b6e4da2765ce5484d9be) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1d487d23e18fce097020d0ecbddffb26') in 0.0251222 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/New Folder/ThreeBox/Match3D Object Pack - Fruits and Vegetables/Resources/Models/Vegetables/Tomato.fbx
+  artifactKey: Guid(f58e122f95f9fda4c80da1e95a2f7883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder/ThreeBox/Match3D Object Pack - Fruits and Vegetables/Resources/Models/Vegetables/Tomato.fbx using Guid(f58e122f95f9fda4c80da1e95a2f7883) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fbe00fbe011cf4ea53bd99175c5c2f5f') in 0.0273478 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
